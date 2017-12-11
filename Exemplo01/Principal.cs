@@ -59,8 +59,9 @@ namespace Exemplo01
                 {
                     Console.Clear();
                     Linha();
-                    Console.WriteLine("\nDigite um dos valores das opções!\n\n
-                                    Tente novamente!");
+                    Console.WriteLine("\nDigite um dos valores das opçõe!\n\nTente novamente!");
+                    Linha();
+                    Console.ReadLine();
                             
                 }
 
